@@ -1,8 +1,8 @@
 # V-Dashboard
 
-Dashboard starter template built with Vite, Vue 3, Tailwind CSS and TypeScript.
+Dashboard starter template built with Vite, Vue 3, Tailwind CSS.
 
-Copied from https://github.com/tailwindcomponents/dashboard and converted to Vue.
+Copied from https://github.com/tailwindcomponents/dashboard and converted to Vue (No TypeScript).
 
 ## Demo
 
@@ -32,13 +32,13 @@ module.exports = {
 ## Project setup
 
 ```
-pnpm install
+pnpm install or npm install
 ```
 
 ### Compiles and hot-reloads for development
 
 ```
-pnpm dev
+pnpm dev or npm run dev
 ```
 
 ### Compiles and minifies for production
